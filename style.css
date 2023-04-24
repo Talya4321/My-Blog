@@ -1,0 +1,71 @@
+.img{
+    height: 300px;
+    width: 600px;
+    border-style: double;
+    border-radius: 50px;
+    border-width: 10px;
+}
+.img-respond{
+    height: 400px;
+    width: 300px;
+}
+.img_sport{
+    height: 500px;
+    width: 600px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px white;
+}
+#my_carousel{
+    background-color: rgb(154, 154, 154);
+}
+.p_sport{
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 10px 10px 10px rgb(255, 255, 255);
+    color: brown;
+
+}
+.movie_head{
+    padding: 6px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.movie_text span{
+    color: gold;
+}
+#thor,#spiderman,#strange{
+    margin-bottom: 500px;
+}
+li a{
+    font-size: 25px;
+    margin-top: 15px;
+}
+.travel{
+    color: palevioletred;
+}
+.music_li{
+    margin-bottom: 50px;
+    height: 500px;
+}
+#contact{
+    margin-top: 200px;
+}
+#box_1{
+    height: 275px;
+}
+#box_2{
+    height: 425px;
+}
+#moi_not_moi{
+    border-radius: 10000000px;
+    height: 500px;
+    width: 500px;
+    border-color: palevioletred;
+    border-width: 10px;
+    border-style: double;
+}
+#name{
+    font-family: 'Caveat', cursive;
+}
